@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Strucna praksa\Regularni_Izrazi\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+609821824.index
+4052867051.index
